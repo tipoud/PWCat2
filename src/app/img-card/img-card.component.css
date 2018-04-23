@@ -1,0 +1,8 @@
+.mat-card .mat-card-actions {
+  padding-top: 0;
+}
+.mat-card .mat-button {
+  color: azure;
+  margin: 0 auto;
+  display: block;
+}
